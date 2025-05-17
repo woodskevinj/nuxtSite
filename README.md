@@ -1,0 +1,2 @@
+# nuxtSite
+Initial Nuxt Site
