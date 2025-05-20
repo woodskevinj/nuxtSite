@@ -1,3 +1,3 @@
 # nuxtSite
 
-Initial Nuxt Site Build - no changes
+Initial Nuxt Site Build - pending changes
