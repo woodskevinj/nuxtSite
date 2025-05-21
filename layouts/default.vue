@@ -8,6 +8,7 @@
       <NuxtLink to="/products">Products</NuxtLink>
       <NuxtLink to="/services">Services</NuxtLink>
       <NuxtLink to="/contact">Contact</NuxtLink>
+      <button>Contact Button</button>
     </nav>
     <slot></slot>
     <footer>My Website Footer</footer>
